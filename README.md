@@ -1,6 +1,6 @@
 # Minha rede de Jogos
 
-![preview](./.github/preview.jpeg)
+![preview](./.github/preview.webp)
 
 > Desafio HTML/CSS
 
