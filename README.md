@@ -6,7 +6,7 @@
 
 Projeto construído com alguns conhecimentos de HTML e CSS.
 
-[Clique aqui para acessar](https://carlosaugus1.github.io/Projeto_Meus_Jogos/)
+[Clique aqui para acessar](https://carlosaugus1.github.io/Project_My_Games/)
 
 
 ## Tecnologias usadas
