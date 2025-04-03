@@ -94,6 +94,8 @@ section ul {
     flex-wrap: wrap;
     gap: 16px;
     margin-top: 24px;
+    align-items: center;
+    justify-content: center;
 }
 
 section ul li {
